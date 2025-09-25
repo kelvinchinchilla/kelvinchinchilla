@@ -1,23 +1,23 @@
-# ¡Hola! Soy Kelvin Chinchilla 👋
+# Hi, I'm Kelvin Chinchilla 👋
 
 ### Senior Power Systems Engineer & Data Science Specialist
 
-Soy un Ingeniero Eléctrico con más de 30 años de experiencia en la fiabilidad y operación de infraestructuras energéticas críticas. Actualmente, estoy enfocado en aplicar mis conocimientos de campo para construir soluciones basadas en datos que resuelvan los desafíos modernos del sector eléctrico.
+I am an Electrical Engineer with over 30 years of experience in the reliability and operation of critical energy infrastructure. My current focus is on applying my hands-on field knowledge to build data-driven solutions that solve the modern challenges of the electrical power sector.
 
 ---
 
-**💡 Mis Especialidades Incluyen:**
-- 🔹 **Análisis de Datos para Sistemas de Potencia:** Python (Pandas, Matplotlib)
-- 🔹 **Mantenimiento Predictivo (PdM):** Machine Learning (Scikit-learn)
-- 🔹 **Business Intelligence & Visualización:** Power BI
-- 🔹 **Gestión y Estrategia de Proyectos:** M.B.A.
+**💡 Core Competencies:**
+- 🔹 **Data Analysis for Power Systems:** Python (Pandas, Matplotlib)
+- 🔹 **Predictive Maintenance (PdM):** Machine Learning (Scikit-learn)
+- 🔹 **Business Intelligence & Visualization:** Power BI
+- 🔹 **Project Management & Strategy:** M.B.A.
 
 ---
 
-**🚀 Proyectos Destacados:**
-- *¡Próximamente mi primer proyecto de análisis de la red eléctrica!*
+**🚀 Featured Projects:**
+- *My first electrical grid analysis project is coming soon!*
 
 ---
 
-**📫 Cómo contactarme:**
+**📫 How to reach me:**
 - **LinkedIn:** [https://www.linkedin.com/in/kelvin-chinchilla/](https://www.linkedin.com/in/kelvin-chinchilla/)
